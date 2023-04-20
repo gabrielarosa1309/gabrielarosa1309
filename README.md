@@ -1,7 +1,7 @@
 ### hey! <3
 ##
 
-<img src="https://cdn.picrew.me/shareImg/org/202304/399481_ag9HWiZn.png" min-width="100px" max-width="100px" width="100px" align="right" alt="momo">
+<img src="https://cdn.picrew.me/shareImg/org/202304/399481_ag9HWiZn.png" min-width="110px" max-width="110px" width="110px" align="right" alt="momo">
 
 Oi, eu sou a Gabi, e estou cursando Desenvolvimento de Sistemas no Senai de Informática.
 
