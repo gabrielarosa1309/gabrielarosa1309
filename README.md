@@ -10,8 +10,8 @@ Adoro aprender coisas novas (principalmente idiomas)📚, treinar e passar tempo
 Estudando para atuar como desenvolvedora Back-End.
 ##
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiiramosss&show_icons=true&theme=omni">
-<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gabiiramosss&layout=compact&theme=omni>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielarosa1309&show_icons=true&theme=omni">
+<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarosa1309&layout=compact&theme=omni>
 </div>
 
 <div style="display: inline_block"><br>
