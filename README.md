@@ -1,7 +1,7 @@
 ### hey! <3
 ##
 
-<img src="https://cdn.picrew.me/shareImg/org/202304/399481_ag9HWiZn.png" min-width="110px" max-width="110px" width="110px" align="right" alt="momo">
+<img src="https://cdn.picrew.me/shareImg/org/202304/399481_ag9HWiZn.png" min-width="110px" max-width="110px" width="110px" align="right" alt="photo">
 
 Oi, eu sou a Gabi, e estou cursando Engenharia de Computação na UNIVESP, Desenvolvimento de Sistemas e Redes de Computadores no Senai de Informática.
 
