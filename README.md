@@ -1,9 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F78BD8&center=true&vCenter=true&random=false&width=1000&lines=hey!;welcome+to+my+page+%E2%99%A1)](https://git.io/typing-svg)
 
-<img src="https://cdn.picrew.me/shareImg/org/202304/399481_ag9HWiZn.png" min-width="110px" max-width="110px" width="110px" align="right" alt="photo">
-
-<div>
+<div align="center">
 Eu sou a Gabi, atualmente estou cursando Engenharia da Computação, Desenvolvimento de Sistemas e Redes de Computadores, e sou apaixonada por tudo que envolve a inovação tecnológica.
 
 Adoro aprender coisas novas (principalmente idiomas)📚, treinar e passar tempo com quem amo🏡💕
