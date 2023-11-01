@@ -39,8 +39,7 @@ Meu objetivo de carreira é trabalhar como DevOps, onde poderei unir minha compr
 <img width="70" height="70"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
 <img width="70" height="70"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
 <img width="70" height="70"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"/>
-  
+<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"/> 
 </div>
 
 ##
