@@ -32,7 +32,10 @@ Meu objetivo de carreira é trabalhar como DevOps, onde poderei unir minha compr
 </div>
 
 <div align="center" style="display: inline_block">
-<h2>Certificações 🏆</h2>
+<h2>Badges 🏆🚀</h2>
+<img width="80" height="80"  src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png"/>
+<img width="80" height="80"  src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
+<img width="80" height="80"  src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
 <img width="70" height="70"  src="https://images.credly.com/size/220x220/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"/>
 <img width="70" height="70"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 <img width="70" height="70"  src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
