@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=91b6f2&center=true&vCenter=true&random=false&width=1000&lines=hey!;welcome+to+my+page+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1300&pause=2000&color=F7A3EF&center=true&vCenter=true&random=false&width=1000&lines=hey!;welcome+to+my+page+%E2%99%A1)](https://git.io/typing-svg)
 
 <div align="center">
 Eu sou a Gabi, atualmente estou cursando Engenharia da Computação, Desenvolvimento de Sistemas e Redes de Computadores, e sou apaixonada por tudo que envolve a inovação tecnológica.
